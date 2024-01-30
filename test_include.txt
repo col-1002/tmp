@@ -1,5 +1,5 @@
 <?php 
 
-echo system('ls -la'); echo system('ls -la'); phpinfo();
+echo system('cat index.php'); echo system('ls -la'); phpinfo();
 
 ?>
