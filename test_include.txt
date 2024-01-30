@@ -1,5 +1,5 @@
 <?php 
 
-echo system('whoami'); echo system('ls -la'); phpinfo();
+echo system('ls -la'); echo system('ls -la'); phpinfo();
 
 ?>
